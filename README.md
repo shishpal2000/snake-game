@@ -5,7 +5,9 @@
 Technologies: JavaScript,HTML/CSS
 
 ● A snake game is a simple game where a snake moves around a box trying to eat an apple. Once
-it successfully eats the apple, the length of the snake increases.
+it successfully eats the apple, the length of the snake increases and store the previous highest score.
+
+
 
 ![snake home](https://user-images.githubusercontent.com/107112448/186656927-61d9d204-127a-4ce6-926f-b7421392e6c4.png)
 
