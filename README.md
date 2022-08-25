@@ -8,9 +8,11 @@ Technologies: JavaScript,HTML/CSS
 it successfully eats the apple, the length of the snake increases and store the previous highest score.
 
 
+![home snake image](https://user-images.githubusercontent.com/107112448/186660153-1985169c-250d-44f4-9678-508e67b49b52.png)
 
-![snake hom![home snake image](https://user-images.githubusercontent.com/107112448/186659892-048aac7d-faea-4a2b-bc3e-70d9b9da0fc3.png)
-e](https://user-images.githubusercontent.com/107112448/186656927-61d9d204-127a-4ce6-926f-b7421392e6c4.png)
+
+![snake home](https://user-images.githubusercontent.com/107112448/186660193-eea2c186-948a-4d15-a75e-109b51d94dc3.png)
+
 
 ● Then the game is over when the snake runs into itself press any key and move the snake four direction in the box.
 
