@@ -9,7 +9,8 @@ it successfully eats the apple, the length of the snake increases and store the 
 
 
 
-![snake home](https://user-images.githubusercontent.com/107112448/186656927-61d9d204-127a-4ce6-926f-b7421392e6c4.png)
+![snake hom![home snake image](https://user-images.githubusercontent.com/107112448/186659892-048aac7d-faea-4a2b-bc3e-70d9b9da0fc3.png)
+e](https://user-images.githubusercontent.com/107112448/186656927-61d9d204-127a-4ce6-926f-b7421392e6c4.png)
 
 ● Then the game is over when the snake runs into itself press any key and move the snake four direction in the box.
 
